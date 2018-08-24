@@ -14,3 +14,9 @@
 - [Part Of Speech Tagging and Chunking with HMM and CRF](https://pan.baidu.com/s/1TKtOZe4mcWcPaOX6aIlgYQ)
 - [https://pan.baidu.com/s/1T8FYcHLfD65aUhjzjPrDiw](https://pan.baidu.com/s/1T8FYcHLfD65aUhjzjPrDiw)
 - [tutorial on hmm and applications](https://pan.baidu.com/s/1g1YneGrU-aTUEu87_Gpl7g)
+
+**Language Model**
+
+- [A Neural Probabilistic Language Model](https://pan.baidu.com/s/1r0JO5IdKmoib1Mpb1e22OQ)
+- [Language Models and Structured Document Retrieval](https://pan.baidu.com/s/1uxIdZjtA9qNSSzVoNOdoiA)
+
