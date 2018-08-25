@@ -19,4 +19,5 @@
 
 - [A Neural Probabilistic Language Model](https://pan.baidu.com/s/1r0JO5IdKmoib1Mpb1e22OQ)
 - [Language Models and Structured Document Retrieval](https://pan.baidu.com/s/1uxIdZjtA9qNSSzVoNOdoiA)
+- [LSTM Neural Networks for Language Modeling](https://pan.baidu.com/s/1IRdCjTrWCFNFl-pPNYnY7Q)
 
